@@ -69,6 +69,8 @@ When you're all finished, write a `README` file detailing all steps required to 
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
+# Download and check output in chrome 
+
 ### cloning and downloading the project
 
 1.  I had gone throughall the instructions which were given by `UDACITY` in the rubic structure from the link `https://github.com/udacity/frontend-nanodegree-feedreader`.
